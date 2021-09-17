@@ -22,5 +22,16 @@ https://docs.microsoft.com/en-us/azure/hdinsight/kafka/apache-kafka-introduction
 - https://developer.confluent.io/podcast/building-real-time-data-pipelines-with-microsoft-azure-databricks-and-confluent
 
 
+## Integrations with Apache Flink
+Apache Flink integrates with Azure Cosmos DB via the Cassandra and MongoDB APIs. It also integrates with Azure Storage.
+Additional integrations are forth-coming.
+https://ci.apache.org/projects/flink/flink-docs-release-1.13/docs/connectors/datastream/overview/
+
+
+## Integrations with Apache Beam
+Apache Beam integrates with Event Hubs via the Kafka protocol and also integrates with Azure Cosmos DB via the Cassandra and Mongo DB APIs.
+Additional integrations are forth-coming.
+https://beam.apache.org/documentation/io/built-in/
+
 ## Upcoming Integrations with Flink, Kafka and Apache Beam
 https://github.com/projectAcetylcholine/projects
