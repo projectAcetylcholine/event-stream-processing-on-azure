@@ -30,8 +30,13 @@ https://ci.apache.org/projects/flink/flink-docs-release-1.13/docs/connectors/dat
 
 ## Integrations with Apache Beam
 Apache Beam integrates with Event Hubs via the Kafka protocol and also integrates with Azure Cosmos DB via the Cassandra and Mongo DB APIs.
-Additional integrations are forth-coming.
+Additional integrations are forth-coming. There is integration with Azure Redis Cache and the ElasticSearch offering from Elasic on Azure. Furthermore, Apache Beam also integrates with any of the Kafka deployment options on Azure (via Confluent, Azure Event Hubs or HDInsights).
 https://beam.apache.org/documentation/io/built-in/
+
+## Integrations with Apache Pulsar
+Apache Pulsar integrates with Cosmos DB via the MongoDB and Cassandra API. You can also integrate with the Azure DB for PostgreSQL and MySQL via the Debezium connectors. There is integration with Azure Redis Cache and the ElasticSearch offering from Elasic on Azure. Furthermore, Apache Pulsar also integrates with any of the Kafka deployment options on Azure (via Confluent, Azure Event Hubs or HDInsights).
+https://pulsar.apache.org/docs/en/io-connectors/
+
 
 ## Upcoming Integrations with Flink, Kafka and Apache Beam
 https://github.com/projectAcetylcholine/projects
