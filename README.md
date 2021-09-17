@@ -20,3 +20,7 @@ https://docs.microsoft.com/en-us/azure/hdinsight/kafka/apache-kafka-introduction
 - https://www.confluent.io/blog/integrate-azure-and-confluent-to-stream-data-into-cosmos-db/
 - https://developer.confluent.io/podcast/connecting-azure-cosmos-db-with-apache-kafka-better-together-ft-ryan-crawcour
 - https://developer.confluent.io/podcast/building-real-time-data-pipelines-with-microsoft-azure-databricks-and-confluent
+
+
+## Upcoming Integrations with Flink, Kafka and Apache Beam
+https://github.com/projectAcetylcholine/projects
