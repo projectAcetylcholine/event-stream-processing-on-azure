@@ -1,5 +1,11 @@
 ## Event Stream Processing on Azure with Open Source Software
 
+## Reach Out to Use Regarding Your Use Case(s)
+If you have a use case for Event Stream Processing and are currently using or would like to deploy your workloads on Microsoft Azure, please use this form to reach out to us with some details and we will get back to you as soon as possible. Thanks.
+
+https://forms.office.com/r/dgVQtcX9E0
+
+
 ## Deployment Options for Apache Kafka on Azure
 
 #### Confluent Cloud Integration with Microsoft Azure
