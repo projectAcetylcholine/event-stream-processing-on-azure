@@ -1,4 +1,4 @@
-# Event Stream Processing on Azure with Open Source Software
+## Event Stream Processing on Azure with Open Source Software
 
 ## Deployment Options for Apache Kafka on Azure
 
